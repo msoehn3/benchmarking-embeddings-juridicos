@@ -1,0 +1,102 @@
+🟦 Modelo: fasttext
+Clusters amostrados: [25 15 12 32 19]
+
+🔹 Cluster 25:
+Termos mais representativos: ['serviço', 'culpa', 'administração', 'pública', 'fiscalização', 'obrigação', 'acessória', 'trabalhisto', 'prestador', 'público']
+Número de documentos no cluster: 42
+
+🔹 Cluster 15:
+Termos mais representativos: ['prescrição', 'intercorrente', 'exequente', 'vigência', 'ano', 'prescricional', 'trabalhista', 'ocorrer', 'dispositivo', 'início']
+Número de documentos no cluster: 141
+
+🔹 Cluster 12:
+Termos mais representativos: ['embargo', 'prequestionamento', 'rejeição', 'contradição', 'obscuridade', 'erro', 'material', 'porventura', 'existente', 'manifesto']
+Número de documentos no cluster: 137
+
+🔹 Cluster 32:
+Termos mais representativos: ['insalubridade', 'frio', 'intervalo', 'agente', 'epis', 'devido', 'concessão', 'neutralização', 'fornecimento', 'concedir']
+Número de documentos no cluster: 133
+
+🔹 Cluster 19:
+Termos mais representativos: ['minuto', 'térmico', 'ambiente', 'recuperação', 'segurança', 'saúde', 'cumprimento', 'garantir', 'intervalo', 'pausa']
+Número de documentos no cluster: 46
+
+🟦 Modelo: doc2vec
+Clusters amostrados: [0 1]
+
+🔹 Cluster 0:
+Termos mais representativos: ['embargo', 'erro', 'rejeitar', 'competência', 'vício', 'vara', 'contradição', 'várzea', 'conflito', 'obscuridade']
+Número de documentos no cluster: 1664
+
+🔹 Cluster 1:
+Termos mais representativos: ['coletivo', 'julgar', 'trabalhador', 'ajuizamento', 'pretensão', 'procuração', 'julgada', 'posterior', 'individual', 'vítima']
+Número de documentos no cluster: 63
+
+🟦 Modelo: sbert
+Clusters amostrados: [15 26 24 14 25]
+
+🔹 Cluster 15:
+Termos mais representativos: ['individual', 'cálculo', 'título', 'integração', 'base', 'debeatur', 'coletivo', 'exequente', 'natureza', 'liquidação']
+Número de documentos no cluster: 35
+
+🔹 Cluster 26:
+Termos mais representativos: ['honorários', 'beneficiário', 'exigibilidade', 'gratuito', 'advocatício', 'inconstitucionalidade', 'crédito', 'devir', 'condenação', 'sucumbencial']
+Número de documentos no cluster: 45
+
+🔹 Cluster 24:
+Termos mais representativos: ['extinto', 'prescrição', 'bienal', 'extinguir', 'observar', 'prescricional', 'ano', 'ajuizamento', 'individual', 'coletivo']
+Número de documentos no cluster: 34
+
+🔹 Cluster 14:
+Termos mais representativos: ['coletivo', 'julgar', 'trabalhador', 'ajuizamento', 'pretensão', 'subjetivo', 'limite', 'individual', 'fixar', 'posterior']
+Número de documentos no cluster: 120
+
+🔹 Cluster 25:
+Termos mais representativos: ['recursal', 'preparo', 'deserção', 'comprovação', 'recolhimento', 'admissibilidade', 'custa', 'gratuito', 'apelo', 'gratuita']
+Número de documentos no cluster: 40
+
+🟦 Modelo: bertimbau
+Clusters amostrados: [34  3  4 20 25]
+
+🔹 Cluster 34:
+Termos mais representativos: ['embargar', 'contradição', 'vício', 'embargo', 'existente', 'prequestionamento', 'corrigir', 'erro', 'material', 'remédio']
+Número de documentos no cluster: 91
+
+🔹 Cluster 3:
+Termos mais representativos: ['rejulgamento', 'descabimento', 'rejeitar', 'ante', 'nítido', 'intenção', 'embargante', 'obter', 'causa', 'afastar']
+Número de documentos no cluster: 31
+
+🔹 Cluster 4:
+Termos mais representativos: ['procuração', 'mérito', 'resolução', 'extinção', 'válido', 'fazer', 'advogado', 'digitalmente', 'autorizar', 'desenvolvimento']
+Número de documentos no cluster: 43
+
+🔹 Cluster 20:
+Termos mais representativos: ['coletivo', 'ajuizamento', 'prescricional', 'liquidação', 'trânsito', 'prescrição', 'individualizar', 'determinação', 'observar', 'ajuizar']
+Número de documentos no cluster: 62
+
+🔹 Cluster 25:
+Termos mais representativos: ['nexo', 'doença', 'civil', 'empregador', 'dano', 'concausal', 'causal', 'atividade', 'ocupacional', 'moral']
+Número de documentos no cluster: 136
+
+🟦 Modelo: legalbert
+Clusters amostrados: [35  2 19  0 33]
+
+🔹 Cluster 35:
+Termos mais representativos: ['corrigir', 'embargo', 'contradição', 'erro', 'teor', 'rejulgamento', 'causa', 'obscuridade', 'material', 'embargar']
+Número de documentos no cluster: 93
+
+🔹 Cluster 2:
+Termos mais representativos: ['vara', 'várzea', 'resolução', 'administrativa', 'criar', 'conflito', 'negativo', 'competência', 'regional', 'item']
+Número de documentos no cluster: 80
+
+🔹 Cluster 19:
+Termos mais representativos: ['minuto', 'térmico', 'recuperação', 'segurança', 'saúde', 'ambiente', 'cumprimento', 'garantir', 'intervalo', 'pausa']
+Número de documentos no cluster: 46
+
+🔹 Cluster 0:
+Termos mais representativos: ['rejulgamento', 'descabimento', 'rejeitar', 'ante', 'nítido', 'intenção', 'embargante', 'obter', 'causa', 'afastar']
+Número de documentos no cluster: 31
+
+🔹 Cluster 33:
+Termos mais representativos: ['embargo', 'declaratório', 'rejeitar', 'ausente', 'ensejar', 'previstos', 'mormente', 'objetivo', 'apresentar', 'irresignação']
+Número de documentos no cluster: 98
